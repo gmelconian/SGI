@@ -1,0 +1,7 @@
+{
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.9",
+        "setasign/fpdf": "1.8.1",
+        "phpoffice/phpword": "^0.17.0"
+    }
+}
